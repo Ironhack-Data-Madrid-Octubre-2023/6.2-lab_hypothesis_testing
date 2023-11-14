@@ -2,6 +2,8 @@
 
 # Lab | Hypothesis Testing
 
+
+
 ## Introduction
 
 In `main.ipynb` we'll familiarize you with one sample hypothesis tests. You will write Python code to conduct one sample hypothesis tests as well as construct confidence intervals.
