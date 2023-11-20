@@ -28,3 +28,5 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 [Standard Error in SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.sem.html)
 
 [One Sample Tests of Proportions](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/SAS/SAS6-CategoricalData/SAS6-CategoricalData2.html)
+
+CAMBIO
